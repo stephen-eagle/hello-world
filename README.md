@@ -1,3 +1,3 @@
 # hello-world
 hi humans
-i like nmode.js
+i like node.js
